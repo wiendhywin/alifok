@@ -1,0 +1,2 @@
+# alifok
+script
